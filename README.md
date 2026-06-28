@@ -47,6 +47,6 @@ ROM特性:
 5. 享受它!
 
 ```
-fastboot flash system "Pixel-komodo-16_ext4_raw_Signed_V5.img"
+fastboot flash system "Pixel-komodo-15_ext4_raw_Signed.img"
 ```
 
